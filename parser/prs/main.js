@@ -1,0 +1,5 @@
+class VMParser
+{
+	sections = [];
+	getProducts(){}
+}

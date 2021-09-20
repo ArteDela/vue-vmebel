@@ -1,0 +1,9 @@
+{
+	"mysql":
+	{
+		"host": "<db_host>",
+		"user": "<user_name>",
+		"password": "<password>",
+		"database": "<db_name>"
+	}
+}
